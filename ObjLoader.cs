@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.Networking;
 
-namespace XSight.Providers
+namespace Providers
 {
     public class ObjLoader
     {
