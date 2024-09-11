@@ -9,7 +9,7 @@ using UnityEngine.XR.ARSubsystems;
 using XSight.Scripts.Adventures;
 using System.Collections;
 
-namespace XSight.Scripts.Geospatial
+namespace Geospatial
 {
     public class GeoSpatialCore : MonoBehaviour, IGeoSpatialService
     {
