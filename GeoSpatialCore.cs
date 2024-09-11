@@ -6,7 +6,7 @@ using ModestTree;
 using UnityEngine;
 using UnityEngine.XR.ARFoundation;
 using UnityEngine.XR.ARSubsystems;
-using XSight.Scripts.Adventures;
+using Adventures;
 using System.Collections;
 
 namespace Geospatial
