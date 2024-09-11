@@ -1,8 +1,8 @@
 using System;
 using UnityEngine;
-using XSight.Scripts.Utils;
+using Utils;
 
-namespace XSight.Scripts.Data
+namespace Data
 {
     public class WalletUpdateService
     {
