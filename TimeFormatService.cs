@@ -54,7 +54,7 @@ namespace AlexeyH.Common.Universal
             };
         }
 
-        public string Format(in long seconds, TimeLocalizationFormat format, in int maxSegments = 2)
+        public string Format(in long seconds, in TimeLocalizationFormat format, in int maxSegments = 2)
         {
             if (_localizedSuffixes == null)
             {
